@@ -1,1 +1,3 @@
 Spring boot设计思想: https://blog.csdn.net/m0_37176232/article/details/88199598
+eclipse创建父子项目： https://blog.csdn.net/daguanjia11/article/details/76836781
+父子项目引用： https://blog.csdn.net/peterkang202/article/details/79458532
