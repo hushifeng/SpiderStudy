@@ -1,1 +1,5 @@
 test my cloud server git
+Hi all, this’s Sheffer. Happy to join CSTC! Yeah I am back, graduated from Northwestern Polytechnical University on 2018, and majored in Software Engineering. So far I have worked 3 years. As a technical analyst in CSTC, I worked for FAST framework team at my first year, it’s really helpful for me to have a good knowledge of auto testing framework. Then I rotated to Symphony team. Here I have got a real high concurrent view. It's so appreciated that I can own these experiences.
+
+It's my honor to back and thanks for my leaders' effort that I can work together again. I will try my best to complete tasks and make it better. Do more contributions on innovation and improving for our team.
+ Thanks all! Have a nice day!
